@@ -1,0 +1,10 @@
+# Layout
+layout : center-right
+
+# Look-and-Feel
+logo : assets/images/qgis-md_50x49.png
+theme: night
+
+# Behavior
+transition : none
+published : true
