@@ -1,11 +1,7 @@
 @title[Title]
 <br>
-# <span style="color:#fff;text-shadow: 2px 2px #5b6269;">This Is A</span>
-# <span style="color:#fff;text-shadow: 2px 2px #5b6269;">Sample Title</span>
-<br>
-## <span style="color:#fff;text-shadow: 2px 2px #5b6269;">Time to rock-n-roll!!</span>
-<br>
-<br>
+# QGIS Maryland
+# User Group
 <br>
 <br>
 #### <span style="color:#fff;text-shadow: 2px 2px #5b6269;">Shawn Pickett, Century Engineering, Inc.</span>
