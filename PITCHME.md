@@ -9,4 +9,5 @@
 @snapend
 
 ---?include=md/resources.md
+---?include=md/getintouch.md
 
