@@ -3,3 +3,7 @@
   border: 0;
   box-shadow: none;
 }
+
+.text--red {
+  color: #981e32;
+}
