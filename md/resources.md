@@ -1,5 +1,5 @@
 @title[Resources]
 
-@snap[east]
+@snap[north-west]
 <h3>Resources</h3>
 @snapend
