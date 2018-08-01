@@ -4,6 +4,7 @@ layout : center-right
 # Look-and-Feel
 logo : assets/images/qgis-md_150x146_shad.png
 theme: moon
+theme-override : assets/css/PITCHME.css
 
 # Behavior
 transition : none
