@@ -3,7 +3,7 @@ layout : center-right
 
 # Look-and-Feel
 logo : assets/images/qgis-md_150x146.png
-theme: night
+theme: beige
 
 # Behavior
 transition : none
