@@ -7,3 +7,6 @@
 @snap[south-east]
 <h5>Shawn Pickett & Anne Canoune, Century Engineering, Inc.</h5>
 @snapend
+
+---?include=md/resources.md
+
