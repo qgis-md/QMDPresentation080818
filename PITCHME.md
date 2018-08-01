@@ -1,9 +1,7 @@
 @title[Title]
-<br>
+
 @snap[east]
-<h1>QGIS Maryland User Group</h1>
-@snapend
-@snap[east]
+<h2>QGIS Maryland User Group</h2>
 <h3>A Modest Proposal</h3>
 @snapend
 @snap[south-east]
