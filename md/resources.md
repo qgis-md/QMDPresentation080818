@@ -2,14 +2,13 @@
 
 @snap[north-west]
 <h2>Resources</h2>
-@snapend
-
-@snap[west]
 @ul
 - Testing 1
 - Testing 2
 - Testing 3
 @ulend
+@snapend
+
 +++
 
 @title[Resource #1]
