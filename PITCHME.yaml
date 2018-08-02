@@ -3,8 +3,10 @@ layout : center-right
 
 # Look-and-Feel
 logo : assets/images/qgis-md_150x146_shad.png
+logo-position : top-left
 theme: beige
 theme-override : assets/css/PITCHME.css
+footnote: "QGIS MD Presentation - August 8, 2018"
 
 # Behavior
 transition : none
