@@ -4,6 +4,13 @@
 <h2>Resources</h2>
 @ul
 - Blogs
+@snap[east]
+@ol
+- One
+- Two
+- Three
+@olend
+@snapend
 - Books
 - Twitter
 - Slack
