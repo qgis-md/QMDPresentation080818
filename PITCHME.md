@@ -8,6 +8,7 @@
 <h5>Shawn Pickett & Anne Canoune, Century Engineering, Inc.</h5>
 @snapend
 
+---?include=md/primer.md
 ---?include=md/resources.md
 ---?include=md/getintouch.md
 
