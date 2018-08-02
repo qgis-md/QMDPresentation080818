@@ -3,9 +3,10 @@
 @snap[north-west]
 <h2>Resources</h2>
 @ul
-- Testing 1
-- Testing 2
-- Testing 3
+- Blogs
+- Books
+- Twitter
+- Slack
 @ulend
 @snapend
 
