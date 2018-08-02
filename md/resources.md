@@ -27,8 +27,7 @@
 @title[Books]
 
 @snap[west]
-![PYQGIS3BOOK](./assets/images/PyQGISProgGuideV3.jpg)
-[http://locatepress.com/ppg3](The PyQGIS Programmer's Guide: Extending QGIS 3 with Python 3)
+[![PYQGIS3BOOK](./assets/images/PyQGISProgGuideV3.jpg)](http://locatepress.com/ppg3)
 @snapend
 
 @snap[east]
