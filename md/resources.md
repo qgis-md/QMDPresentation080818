@@ -27,7 +27,7 @@
 @title[Books]
 
 @snap[west]
-<a href="http://locatepress.com/ppg3">![PYQGIS3BOOK](./assets/images/PyQGISProgGuideV3.jpg)</a>
+[![Foo](./assets/images/PyQGISProgGuideV3.jpg)](http://locatepress.com/ppg3)
 @snapend
 
 @snap[east]
