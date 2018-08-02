@@ -10,5 +10,6 @@
 
 ---?include=md/primer.md
 ---?include=md/resources.md
+---?include=md/ug-struct.md
 ---?include=md/getintouch.md
 
