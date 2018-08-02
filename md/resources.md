@@ -27,7 +27,7 @@
 @title[Books]
 
 @snap[west]
-[![Foo](./assets/images/PyQGISProgGuideV3.jpg)](http://locatepress.com/ppg3)
+@[![Foo](./assets/images/PyQGISProgGuideV3.jpg)](http://locatepress.com/ppg3)
 @snapend
 
 @snap[east]
