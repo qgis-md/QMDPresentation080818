@@ -3,7 +3,7 @@
 @snap[north-west]
 <h2>Resources</h2>
 @ul
-- Blogs
+- Blogs @fa[medium-m fa-3x]
 - Books
 - Twitter
 - Slack
