@@ -6,21 +6,17 @@
   <li>Free and Open Source GIS Software</li>
   </br>
   <li>Includes Desktop, Server, Field Application (QField)</li>
-  </br>
-  <li></li>
+<!-- Placeholder for pictures -->
 </ul>
 
 @snapend
 
 +++
 
-@title[Feature Frenzy - Data]
+@title[Feature Frenzy - Formats]
 
 @snap[north-west]
-<h3>Feature Frenzy - Data</h3>
-
-<h2>Formats</h2>
-
+<h3>Feature Frenzy - Data Formats</h3>
 <ul>
   <li>Enterprise databases - PostGres, MS SQL, Oracle, and DB2</li>
   </br>
@@ -29,10 +25,17 @@
   <li>Web - WMS / WCS / WFS, XYZ Tiles, ArcGIS Map and Feature Services</li>
 </ul>
 
-<h2>Editing</h2>
+@snapend
+
++++
+
+@title[Feature Frenzy - Editing]
+
+@snap[north-west]
+<h3>Feature Frenzy - Editing</h3>
 
 <ul>
-  <li>Run SQL on your layers</li>
+  <li>Vector Editing tools / Run SQL on your layers</li>
   </br>
   <li>Edit data from multiple sources at the same time</li>
   </br>
@@ -41,6 +44,7 @@
   <li>Customize Attribute Forms</li>
 </ul>
 
+@snapend
 
 +++
 
@@ -54,7 +58,8 @@
   <li>Labels - With Expression or Rules-based</li>
   </br>
   <li>Native 3D</li>
+  </br>
+  <li>Print Composer / Atlas / Reports</li>
 </ul>
-
 
 @snapend
