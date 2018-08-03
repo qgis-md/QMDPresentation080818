@@ -26,10 +26,39 @@
 
 @title[Books]
 
+@snap[north-west]
+![Foo](./assets/images/PyQGISProgGuideV3.jpg)
+@size[1em](http://locatepress.com/ppg3)
+@snapend
+
 @snap[west]
-@[![Foo](./assets/images/PyQGISProgGuideV3.jpg)](http://locatepress.com/ppg3)
+![Foo](./assets/images/PyQGISProgGuideV3.jpg)
+@snapend
+
+@snap[south-west]
+![Foo](./assets/images/PyQGISProgGuideV3.jpg)
+@snapend
+
+@snap[north]
+![Foo](./assets/images/PyQGISProgGuideV3.jpg)
+@snapend
+
+@snap[midpoint]
+<h3>Recommended Books</h3>
+@snapend
+
+@snap[south]
+![Foo](./assets/images/PyQGISProgGuideV3.jpg)
+@snapend
+
+@snap[north-east]
+![Foo](./assets/images/PyQGISProgGuideV3.jpg)
 @snapend
 
 @snap[east]
-<h3>Books For Beginners</h3>
+![Foo](./assets/images/PyQGISProgGuideV3.jpg)
+@snapend
+
+@snap[south-east]
+![Foo](./assets/images/PyQGISProgGuideV3.jpg)
 @snapend
