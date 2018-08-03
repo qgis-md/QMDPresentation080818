@@ -28,7 +28,7 @@
 
 @snap[north-west]
 ![Foo](./assets/images/PyQGISProgGuideV3.jpg)
-@size[1em](http://locatepress.com/ppg3)
+@size[0.5em](http://locatepress.com/ppg3)
 @snapend
 
 @snap[west]
