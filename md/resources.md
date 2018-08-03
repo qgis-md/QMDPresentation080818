@@ -32,15 +32,15 @@
 @snapend
 
 @snap[west]
-![Foo](./assets/images/PyQGISProgGuideV3.jpg)
+![Foo](./assets/images/BecomingQGISPowerUser.jpg)
 @snapend
 
 @snap[south-west]
-![Foo](./assets/images/PyQGISProgGuideV3.jpg)
+![Foo](./assets/images/LearningQGIS.jpg)
 @snapend
 
 @snap[north]
-![Foo](./assets/images/PyQGISProgGuideV3.jpg)
+![Foo](./assets/images/MasteringQGIS.jpg)
 @snapend
 
 @snap[midpoint]
@@ -48,11 +48,11 @@
 @snapend
 
 @snap[south]
-![Foo](./assets/images/PyQGISProgGuideV3.jpg)
+![Foo](./assets/images/QGISMapDesign.jpg)
 @snapend
 
 @snap[north-east]
-![Foo](./assets/images/PyQGISProgGuideV3.jpg)
+![Foo](./assets/images/QGISPythonProgCookbook.jpg)
 @snapend
 
 @snap[east]
