@@ -27,19 +27,15 @@
 @title[Books]
 
 @snap[north-west]
-[![PyQGIS](./assets/images/PyQGISProgGuideV3.jpg)](http://locatepress.com/ppg3)
-@snapend
-
-@snap[west]
-![Foo](./assets/images/BecomingQGISPowerUser.jpg)
+![LearningQGIS](./assets/images/LearningQGIS.jpg)
 @snapend
 
 @snap[south-west]
-![Foo](./assets/images/LearningQGIS.jpg)
+![MasteringQGIS](./assets/images/MasteringQGIS.jpg)
 @snapend
 
 @snap[north]
-![Foo](./assets/images/MasteringQGIS.jpg)
+![QGISMapDesign](./assets/images/QGISMapDesign.jpg)
 @snapend
 
 @snap[midpoint]
@@ -47,17 +43,15 @@
 @snapend
 
 @snap[south]
-![Foo](./assets/images/QGISMapDesign.jpg)
+![BecomingQGISPowerUser](./assets/images/BecomingQGISPowerUser.jpg)
+
 @snapend
 
 @snap[north-east]
-![Foo](./assets/images/QGISPythonProgCookbook.jpg)
-@snapend
+![PyQGIS](./assets/images/PyQGISProgGuideV3.jpg)
 
-@snap[east]
-![Foo](./assets/images/PyQGISProgGuideV3.jpg)
 @snapend
 
 @snap[south-east]
-![Foo](./assets/images/PyQGISProgGuideV3.jpg)
+![QGISPythonProgCookbook](./assets/images/QGISPythonProgCookbook.jpg)
 @snapend
