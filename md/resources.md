@@ -11,20 +11,23 @@
 +++
 
 @title[Blogs]
-![Anita Graser](https://anitagraser.com/) - QGIS Desktop
-![Kurt Menke](https://www.birdseyeviewgis.com/blog/) - QGIS Desktop
-![Gretchen Peterson](http://www.gretchenpeterson.com/blog/) - cartography
-![Gary Sherman](http://spatialgalaxy.net/) - creator of QGIS
-![Nathan Woodrow](https://nathanw.net/) - PyQGIS
-![Planet QGIS](https://plugins.qgis.org/planet/) - Clearinghouse of QGIS Blogs
+
 @snap[west]
 @ul
-- Blogs
-- Books
-- Twitter
-- Slack
+- ![Anita Graser](https://anitagraser.com/)
+- ![Kurt Menke](https://www.birdseyeviewgis.com/blog/)
+- ![Gretchen Peterson](http://www.gretchenpeterson.com/blog/)
+- ![Gary Sherman](http://spatialgalaxy.net/)
+- ![Nathan Woodrow](https://nathanw.net/)
+- ![Planet QGIS](https://plugins.qgis.org/planet/)
 @ulend
 @snapend
+
+
+
+
+
+
 +++
 
 @title[Books]
