@@ -54,7 +54,7 @@
 
 @title[Twitter]
 
----?image=https://media.giphy.com/media/10zI52A8mrfwNG/giphy.gif&size=cover&opacity=30
+---?image=https://media.giphy.com/media/10zI52A8mrfwNG/giphy.gif&position=left&size=55% 100%&opacity=40
 
 +++
 
