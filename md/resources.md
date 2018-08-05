@@ -44,14 +44,18 @@
 
 @snap[south]
 ![BecomingQGISPowerUser](./assets/images/BecomingQGISPowerUser.jpg)
-
 @snapend
 
 @snap[north-east]
 ![PyQGIS](./assets/images/PyQGISProgGuideV3.jpg)
-
 @snapend
 
 @snap[south-east]
 ![QGISPythonProgCookbook](./assets/images/QGISPythonProgCookbook.jpg)
 @snapend
+
++++
+
+@title[Twitter]
+
+
