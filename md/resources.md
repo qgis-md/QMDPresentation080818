@@ -1,16 +1,7 @@
 @title[Resources]
 
-@snap[north-west]
-<h2>Resources</h2>
-@snapend
-
 @snap[west]
-@ul
-- Blogs
-- Books
-- Twitter
-- Slack
-@ulend
+<h3>Looking for some<br><span class="text--red"good</span> resources?</h3>
 @snapend
 
 @snap[east]
@@ -20,29 +11,38 @@
 +++
 
 @title[Blogs]
-
-+++
-
-@title[Resource #1]
-
+![Anita Graser](https://anitagraser.com/) - QGIS Desktop
+![Kurt Menke](https://www.birdseyeviewgis.com/blog/) - QGIS Desktop
+![Gretchen Peterson](http://www.gretchenpeterson.com/blog/) - cartography
+![Gary Sherman](http://spatialgalaxy.net/) - creator of QGIS
+![Nathan Woodrow](https://nathanw.net/) - PyQGIS
+![Planet QGIS](https://plugins.qgis.org/planet/) - Clearinghouse of QGIS Blogs
 @snap[west]
-<h3>This is Resource #1</h3>
+@ul
+- Blogs
+- Books
+- Twitter
+- Slack
+@ulend
 @snapend
-
 +++
 
 @title[Books]
+
+@snap[west]
+<h3>Recommended Books</h3>
+@snapend
 
 @snap[north-west]
 ![](./assets/images/LearningQGIS.jpg)
 @snapend
 
 @snap[south-west]
-[![](https://gitpitch.com/pitchme/cdn/github/qgis-md/QMDPresentation080818/master/241B82F03C24A7AB2C0B622D1E79F45D1D8C4DF33B93A425025215B53888E8E9DAE027BCF3D57244E29938BCDB6E37DE6AE843ECE22F20ECA8CA228749AC875884B2188B352A446563224F56B778DF0142D2A4191F3014055BCDFC10AB399FF62772F274402BC693/./assets/images/MasteringQGIS.jpg)](https://www.amazon.com/Mastering-QGIS-Kurt-Menke-GISP/dp/1786460378)
+![](./assets/images/MasteringQGIS.jpg)
 @snapend
 
 @snap[north]
-[![QGISMapDesign](https://gitpitch.com/pitchme/cdn/github/qgis-md/QMDPresentation080818/master/241B82F03C24A7AB2C0B622D1E79F45D1D8C4DF33B93A425025215B53888E8E9DAE027BCF3D57244E29938BCDB6E37DE6AE843ECE22F20ECA8CA228749AC875884B2188B352A446563224F56B778DF0142D2A4191F3014055BCDFC10AB399FF62772F274402BC693/./assets/images/QGISMapDesign.jpg)](https://www.amazon.com/QGIS-Map-Design-Anita-Graser/dp/0989421759)
+![QGISMapDesign](./assets/images/QGISMapDesign.jpg)
 @snapend
 
 @snap[midpoint]
@@ -50,19 +50,24 @@
 @snapend
 
 @snap[south]
-[![BecomingQGISPowerUser](https://gitpitch.com/pitchme/cdn/github/qgis-md/QMDPresentation080818/master/241B82F03C24A7AB2C0B622D1E79F45D1D8C4DF33B93A425025215B53888E8E9DAE027BCF3D57244E29938BCDB6E37DE6AE843ECE22F20ECA8CA228749AC875884B2188B352A446563224F56B778DF0142D2A4191F3014055BCDFC10AB399FF62772F274402BC693/./assets/images/BecomingQGISPowerUser.jpg)](https://www.amazon.com/QGIS-Becoming-GIS-Power-User/dp/1788299728)
+![BecomingQGISPowerUser](./assets/images/BecomingQGISPowerUser.jpg)
 @snapend
 
 @snap[north-east]
-[![PyQGIS](https://gitpitch.com/pitchme/cdn/github/qgis-md/QMDPresentation080818/master/241B82F03C24A7AB2C0B622D1E79F45D1D8C4DF33B93A425025215B53888E8E9DAE027BCF3D57244E29938BCDB6E37DE6AE843ECE22F20ECA8CA228749AC875884B2188B352A446563224F56B778DF0142D2A4191F3014055BCDFC10AB399FF62772F274402BC693/./assets/images/PyQGISProgGuideV3.jpg)](https://www.amazon.com/PyQGIS-Programmers-Guide-Extending-Python/dp/0998547727)
+![PyQGIS](./assets/images/PyQGISProgGuideV3.jpg)
 @snapend
 
 @snap[south-east]
-[![QGISPythonProgCookbook](https://gitpitch.com/pitchme/cdn/github/qgis-md/QMDPresentation080818/master/241B82F03C24A7AB2C0B622D1E79F45D1D8C4DF33B93A425025215B53888E8E9DAE027BCF3D57244E29938BCDB6E37DE6AE843ECE22F20ECA8CA228749AC875884B2188B352A446563224F56B778DF0142D2A4191F3014055BCDFC10AB399FF62772F274402BC693/./assets/images/QGISPythonProgCookbook.jpg)](https://www.amazon.com/QGIS-Python-Programming-Cookbook-Second/dp/1787124835)
+![QGISPythonProgCookbook](./assets/images/QGISPythonProgCookbook.jpg)
 @snapend
 
 +++
 
 @title[Twitter]
+
++++
+
+@title[Slack]
+![The Spatial Community](https://thespatialcommunity.org/) - #qgis channel - also have many other channels
 
 
