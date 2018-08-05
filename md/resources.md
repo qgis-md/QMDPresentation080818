@@ -25,7 +25,7 @@
 
 @snap[east]
 <h3>Recommended Blogs</h3>
-<p>These are great resources- especially if you're interested in seeing how others are using QGIS.</p>
+<span class="explainer">These are great resources- especially if you're interested in seeing how others are using QGIS.</span>
 
 
 
