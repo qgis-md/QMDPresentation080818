@@ -23,9 +23,9 @@
 @ulend
 @snapend
 
-@snap[east]
+@snap[east explainer]
 <h3>Recommended Blogs</h3>
-<span class="explainer">These are great resources- especially if you're interested in seeing how others are using QGIS.</span>
+These are great resources- especially if you're interested in seeing how others are using QGIS.
 @snapend
 
 
