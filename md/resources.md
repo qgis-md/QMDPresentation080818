@@ -53,7 +53,7 @@
 +++?image=https://media.giphy.com/media/10zI52A8mrfwNG/giphy.gif&position=left&size=55% 100%&opacity=40
 @title[Twitter]
 @snap[north-east]
-<h3>Twitter Resources</h3>
+<h3>Folks to Follow on Twitter</h3>
 @snapend
 +++
 
