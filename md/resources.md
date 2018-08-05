@@ -14,12 +14,12 @@
 
 @snap[west]
 @ul
-- ![Anita Graser](https://anitagraser.com/)
-- ![Kurt Menke](https://www.birdseyeviewgis.com/blog/)
-- ![Gretchen Peterson](http://www.gretchenpeterson.com/blog/)
-- ![Gary Sherman](http://spatialgalaxy.net/)
-- ![Nathan Woodrow](https://nathanw.net/)
-- ![Planet QGIS](https://plugins.qgis.org/planet/)
+- [Anita Graser](https://anitagraser.com/)
+- [Kurt Menke](https://www.birdseyeviewgis.com/blog/)
+- [Gretchen Peterson](http://www.gretchenpeterson.com/blog/)
+- [Gary Sherman](http://spatialgalaxy.net/)
+- [Nathan Woodrow](https://nathanw.net/)
+- [Planet QGIS](https://plugins.qgis.org/planet/)
 @ulend
 @snapend
 
