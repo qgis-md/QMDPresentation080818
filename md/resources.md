@@ -79,8 +79,8 @@
 @snapend
 
 @snap[east]
-[The Spatial Community](https://thespatialcommunity.org/)<br>
-@ul[no-bullet](false)
+@css[title-block]([The Spatial Community](https://thespatialcommunity.org/))
+@ul[spatial-community](false)
 - @css[details](@fa[slack text--red] qgis)
 - @css[details](@fa[slack text--red] grass)
 @ulend

@@ -27,3 +27,9 @@
   font-size: 0.7em !important;
   line-height: 1.5em !important;
 }
+
+.spatial-community {
+  display: block;
+  text-align: left !important;
+  margin: 0 0 0 1em !important;
+}
