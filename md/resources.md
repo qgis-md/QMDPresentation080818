@@ -83,6 +83,7 @@
 @ul[spatial-community](false)
 - @css[details](@fa[slack text--red] qgis)
 - @css[details](@fa[slack text--red] grass)
+- @css[details](@fa[slack text--red] osgeo)
 @ulend
 @snapend
 
