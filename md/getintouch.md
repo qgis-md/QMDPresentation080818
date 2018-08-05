@@ -1,8 +1,8 @@
 @title[Get In Touch]
 
-@snap[north-west]
+@snap[east]
 <h2>Get In Touch!</h2>
 @snapend
 @snap[west]
-@fa[twitter fa-3x]
+@fa[twitter twitter--blue][@spickettjr](https://twitter.com/spickettjr)
 @snapend

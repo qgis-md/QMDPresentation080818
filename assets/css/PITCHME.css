@@ -8,6 +8,10 @@
   color: #981e32;
 }
 
+.twitter--blue {
+  color: #1da1f2;
+}
+
 .explainer {
   width: 50%;
   color: gray;
@@ -23,7 +27,7 @@
 }
 
 .details {
-  color: gray;
+  color: #1c1c1c;
   font-size: 0.7em !important;
   line-height: 1.5em !important;
 }
