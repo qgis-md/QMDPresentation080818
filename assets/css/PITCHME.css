@@ -15,8 +15,6 @@
   line-height: 1.5em !important;
 }
 
-.twitter-list > .ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
+.twitter-list {
+  text-align: left;
 }
