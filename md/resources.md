@@ -23,11 +23,8 @@
 @ulend
 @snapend
 
-@snap[north-east]
+@snap[east]
 <h3>Recommended Blogs</h3>
-@snapend
-@snap[east explainer]
-These are great resources- especially if you're interested in seeing how others are using QGIS.
 @snapend
 
 +++
