@@ -15,6 +15,6 @@
   line-height: 1.5em !important;
 }
 
-.twitter-list {
-  text-align: left;
+.no-bullet {
+  list-style-type: none;
 }

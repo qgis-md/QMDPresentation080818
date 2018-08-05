@@ -58,15 +58,15 @@
 
 @snap[east]
 @ul[no-bullet](false)
-[@qgis](https://twitter.com/qgis)
-[@shermange](https://twitter.com/shermange)
-[@underdarkGIS](https://twitter.com/underdarkGIS)
-[@PetersonGIS](https://twitter.com/PetersonGIS)
-[@geomenke](https://twitter.com/geomenke)
-[@naturalgis](https://twitter.com/naturalgis)
-[@northroadgeo](https://twitter.com/northroadgeo)
-[@qgis_us](https://twitter.com/qgis_us)
-[@qgismd](https://twitter.com/qgismd)
+- [@qgis](https://twitter.com/qgis)
+- [@shermange](https://twitter.com/shermange)
+- [@underdarkGIS](https://twitter.com/underdarkGIS)
+- [@PetersonGIS](https://twitter.com/PetersonGIS)
+- [@geomenke](https://twitter.com/geomenke)
+- [@naturalgis](https://twitter.com/naturalgis)
+- [@northroadgeo](https://twitter.com/northroadgeo)
+- [@qgis_us](https://twitter.com/qgis_us)
+- [@qgismd](https://twitter.com/qgismd)
 @ulend
 @snapend
 
