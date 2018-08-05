@@ -55,18 +55,19 @@
 @snap[north-east]
 <h3>Folks to Follow on Twitter</h3>
 @snapend
+
 @snap[east]
-@ul[twitter-list](false)
-- [@qgis](https://twitter.com/qgis)
-- [@shermange](https://twitter.com/shermange)
-- [@underdarkGIS](https://twitter.com/underdarkGIS)
-- [@PetersonGIS](https://twitter.com/PetersonGIS)
-- [@geomenke](https://twitter.com/geomenke)
-- [@naturalgis](https://twitter.com/naturalgis)
-- [@northroadgeo](https://twitter.com/northroadgeo)
-- [@qgis_us](https://twitter.com/qgis_us)
-- [@qgismd](https://twitter.com/qgismd)
-@ulend
+[@qgis](https://twitter.com/qgis)<br>
+[@shermange](https://twitter.com/shermange)<br>
+[@underdarkGIS](https://twitter.com/underdarkGIS)<br>
+[@PetersonGIS](https://twitter.com/PetersonGIS)<br>
+[@geomenke](https://twitter.com/geomenke)<br>
+[@naturalgis](https://twitter.com/naturalgis)<br>
+[@northroadgeo](https://twitter.com/northroadgeo)<br>
+[@qgis_us](https://twitter.com/qgis_us)<br>
+[@qgismd](https://twitter.com/qgismd)
+@snapend
+
 +++
 
 @title[Slack]
