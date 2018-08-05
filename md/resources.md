@@ -27,7 +27,7 @@
 @title[Books]
 
 @snap[north-west]
-[![](./assets/images/LearningQGIS.jpg)](http://www.google.com)
+[![](QMDPresentation08082018/assets/images/LearningQGIS.jpg)](http://www.google.com)
 @snapend
 
 @snap[south-west]
