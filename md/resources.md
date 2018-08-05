@@ -80,7 +80,9 @@
 
 @snap[east]
 [The Spatial Community](https://thespatialcommunity.org/)<br>
-@css[details](@fa[slack text--red] qgis)<br>
-@css[details](@fa[slack text--red] grass)
+@ul[no-bullet](false)
+- @css[details](@fa[slack text--red] qgis)
+- @css[details](@fa[slack text--red] grass)
+@ulend
 @snapend
 
