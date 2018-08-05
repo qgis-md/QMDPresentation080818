@@ -34,7 +34,7 @@
 @title[Books]
 
 @snap[north-west]
-[![](./assets/images/LearningQGIS.jpg)](https://www.amazon.com/Learning-QGIS-Third-Anita-Graser/dp/1785880330)
+![](./assets/images/LearningQGIS.jpg)
 @snapend
 
 @snap[south-west]
