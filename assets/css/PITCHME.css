@@ -32,4 +32,5 @@
   display: block;
   text-align: left !important;
   margin: 0 0 0 1em !important;
+  list-style-type: none !important;
 }
