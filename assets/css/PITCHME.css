@@ -15,7 +15,7 @@
   line-height: 1.5em !important;
 }
 
-.twitter-list {
+.twitter-list > .reveal-ul {
   list-style-type: none;
   margin-left: 0;
 }
