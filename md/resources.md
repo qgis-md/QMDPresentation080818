@@ -28,8 +28,6 @@
 These are great resources- especially if you're interested in seeing how others are using QGIS.
 @snapend
 
-
-
 +++
 
 @title[Books]
@@ -38,31 +36,18 @@ These are great resources- especially if you're interested in seeing how others 
 <h3>Recommended Books</h3>
 @snapend
 
-@snap[north-west]
+@snap[north-east]
 ![](./assets/images/LearningQGIS.jpg)
-@snapend
-
-@snap[south-west]
 ![](./assets/images/MasteringQGIS.jpg)
 @snapend
 
-@snap[north]
+@snap[east]
 ![QGISMapDesign](./assets/images/QGISMapDesign.jpg)
-@snapend
-
-@snap[midpoint]
-<h3>Recommended Books</h3>
-@snapend
-
-@snap[south]
 ![BecomingQGISPowerUser](./assets/images/BecomingQGISPowerUser.jpg)
 @snapend
 
-@snap[north-east]
-![PyQGIS](./assets/images/PyQGISProgGuideV3.jpg)
-@snapend
-
 @snap[south-east]
+![PyQGIS](./assets/images/PyQGISProgGuideV3.jpg)
 ![QGISPythonProgCookbook](./assets/images/QGISPythonProgCookbook.jpg)
 @snapend
 
