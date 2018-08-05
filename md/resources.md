@@ -10,6 +10,8 @@
 @ulend
 @snapend
 
+@snap[east]
+![Giphy](https://gph.is/2jM6bpi)
 +++
 
 @title[Blogs]
