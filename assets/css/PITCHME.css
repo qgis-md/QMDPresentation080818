@@ -56,3 +56,14 @@
 .container {
     padding: 2px 16px;
 }
+
+.name {
+  font-size: 14pt;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.twitter-handle {
+  font-size: 12pt;
+  color: #1c1c1c;
+}
