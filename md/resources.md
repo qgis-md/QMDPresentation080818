@@ -75,7 +75,7 @@
 @title[Slack]
 
 @snap[north-west]
-@fa[slack fa-3x fa-spin]
+![Slack](./assets/images/slacklogo.png)
 ![The Spatial Community](https://thespatialcommunity.org/) - #qgis channel - also have many other channels
 @snapend
 
