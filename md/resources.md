@@ -53,7 +53,8 @@
 +++
 
 @title[Twitter]
-![Twitter](https://media.giphy.com/media/10zI52A8mrfwNG/giphy.gif)
+
+---?image=https://media.giphy.com/media/10zI52A8mrfwNG/giphy.gif&size=cover&opacity=30
 
 +++
 
