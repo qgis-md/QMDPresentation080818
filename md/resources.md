@@ -73,6 +73,9 @@
 +++
 
 @title[Slack]
-![The Spatial Community](https://thespatialcommunity.org/) - #qgis channel - also have many other channels
 
+@snap[north-west]
+@fa[slack fa-3x fa-spin]
+![The Spatial Community](https://thespatialcommunity.org/) - #qgis channel - also have many other channels
+@snapend
 
