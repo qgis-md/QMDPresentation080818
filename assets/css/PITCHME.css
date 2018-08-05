@@ -14,3 +14,8 @@
   font-size: 0.7em !important;
   line-height: 1.5em !important;
 }
+
+.twitter-list {
+  list-style-type: none;
+  margin-left: 0;
+}
