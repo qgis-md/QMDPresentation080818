@@ -2,6 +2,9 @@
 
 @snap[north-west]
 <h2>Resources</h2>
+@snapend
+
+@snap[west]
 @ul
 - Blogs
 - Books
@@ -11,7 +14,8 @@
 @snapend
 
 @snap[east]
-![Giphy](https://gph.is/2jM6bpi)
+![Giphy](https://media.giphy.com/media/l3q2PZSVUUEsajBIY/giphy.gif)
+@snapend
 +++
 
 @title[Blogs]
