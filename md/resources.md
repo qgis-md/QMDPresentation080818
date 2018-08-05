@@ -80,6 +80,6 @@
 
 @snap[east]
 [The Spatial Community](https://thespatialcommunity.org/)<br>
-@css[details]#qgis
+@css[details](#qgis)
 @snapend
 
