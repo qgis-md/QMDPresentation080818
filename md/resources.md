@@ -50,11 +50,8 @@
 ![QGISPythonProgCookbook](./assets/images/QGISPythonProgCookbook.jpg)
 @snapend
 
-+++
-
++++?image=https://media.giphy.com/media/10zI52A8mrfwNG/giphy.gif&position=left&size=55% 100%&opacity=40
 @title[Twitter]
-
----?image=https://media.giphy.com/media/10zI52A8mrfwNG/giphy.gif&position=left&size=55% 100%&opacity=40
 @snap[north-east]
 <h3>Twitter Resources</h3>
 @snapend
