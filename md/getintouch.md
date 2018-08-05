@@ -2,7 +2,7 @@
 
 @snap[south-west]
 <div class="card">
-  <img src="img_avatar.png" alt="Avatar" style="width:100%">
+  <img src="./assets/images/BadWolf.png" alt="Avatar" style="width:100%">
   <div class="container">
     <h6><b>John Doe</b></h6> 
     <p>Architect & Engineer</p> 
@@ -12,7 +12,7 @@
 
 @snap[south]
 <div class="card">
-  <img src="img_avatar.png" alt="Avatar" style="width:100%">
+  <img src="./assets/images/BadWolf.png" alt="Avatar" style="width:100%">
   <div class="container">
     <h6><b>John Doe</b></h6> 
     <p>Architect & Engineer</p> 
@@ -22,7 +22,7 @@
 
 @snap[south-east]
 <div class="card">
-  <img src="img_avatar.png" alt="Avatar" style="width:100%">
+  <img src="./assets/images/BadWolf.png" alt="Avatar" style="width:100%">
   <div class="container">
     <h6><b>John Doe</b></h6> 
     <p>Architect & Engineer</p> 
