@@ -56,7 +56,7 @@
 <h3>Folks to Follow on Twitter</h3>
 @snapend
 
-@snap[east]
+@snap[east content-left]
 [@qgis](https://twitter.com/qgis)<br>
 [@shermange](https://twitter.com/shermange)<br>
 [@underdarkGIS](https://twitter.com/underdarkGIS)<br>
