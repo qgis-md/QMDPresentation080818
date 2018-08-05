@@ -21,3 +21,9 @@
   padding: 0 !important;
   margin: 0 !important;
 }
+
+.details {
+  color: gray;
+  font-size: 0.7em !important;
+  line-height: 1.5em !important;
+}

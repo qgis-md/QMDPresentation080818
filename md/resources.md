@@ -79,7 +79,7 @@
 @snapend
 
 @snap[east]
-![The Spatial Community](https://thespatialcommunity.org/)<br>
-@css[explainer]#qgis channel
+[The Spatial Community](https://thespatialcommunity.org/)<br>
+@css[details]#qgis
 @snapend
 
