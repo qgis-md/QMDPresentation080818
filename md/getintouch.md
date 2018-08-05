@@ -6,5 +6,5 @@
 @snap[west]
 @fa[twitter fa-2x twitter--blue][@qgismd](https://twitter.com/qgismd)<br>
 @fa[twitter fa-2x twitter--blue][@spickettjr](https://twitter.com/spickettjr)<br>
-@fa[twitter fa-2x twitter--blue][@AnnieGitUrGun](https://twitter.com/anniegiturgun)
+@fa[twitter fa-2x twitter--blue]@css[bold]([@AnnieGitUrGun](https://twitter.com/anniegiturgun))
 @snapend
