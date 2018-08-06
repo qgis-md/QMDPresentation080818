@@ -1,10 +1,10 @@
 @title[Get In Touch]
 
-@snap[east]
+@snap[west]
 <h2>Get In Touch</h2>
 @snapend
 
-@snap[west]
+@snap[east]
 
 @css[name](QGISMD)<br>
 @fa[envelope-o text--red]&nbsp;&nbsp;@css[email](qgismd@gmail.com)<br>
