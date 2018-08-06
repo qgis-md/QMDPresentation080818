@@ -1,7 +1,3 @@
-# QMDPresentation080818
-
-This presentation can be viewed at: [Inaugural QGIS MD Meeting](https://gitpitch.com/qgis-md/QMDPresentation080818/master).
-
 # Inaugural Meeting at TUgis 2018
 Come join us on August 8th, 2018 for the inaugural meeting of the Maryland QGIS User Group!
 
@@ -14,3 +10,5 @@ At this first meeting we will be discussing:
 * Call for Contributions
 
 The meeting will be held between 12 - 1pm in room 3214 (Liberal Arts Building) at Towson Univserity and all are welcome!
+
+View the presentation here: [Inaugural QGIS MD Meeting](https://gitpitch.com/qgis-md/QMDPresentation080818/master)
