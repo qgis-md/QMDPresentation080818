@@ -6,10 +6,11 @@
 
 @snap[west]
 <div class="card">
-  ![Avatar](./assets/images/BadWolf.png)
-  @css[container](
+  <img src="./assets/images/BadWolf.png" alt="Avatar" style="width:100%">
+  <div class="container">
     @css[name](Shawn Pickett)<br> 
-    @fa[twitter twitter--blue]@css[twitter-handle](@spickettjr))
+    @fa[twitter twitter--blue] @css[twitter-handle](@spickettjr)
+  </div>
 </div>
 @snapend
 
