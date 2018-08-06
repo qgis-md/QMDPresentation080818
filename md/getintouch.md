@@ -1,6 +1,10 @@
 @title[Get In Touch]
 
-@snap[south-west]
+@snap[east]
+<h3>Get In Touch
+@snapend
+
+@snap[west]
 <div class="card">
   <img src="./assets/images/BadWolf.png" alt="Avatar" style="width:100%">
   @css[container](
@@ -9,7 +13,7 @@
 </div>
 @snapend
 
-@snap[south-east]
+@snap[south-west]
 <div class="card">
   <img src="./assets/images/BadWolf.png" alt="Avatar" style="width:100%">
   <div class="container">
