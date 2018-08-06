@@ -17,7 +17,7 @@
 @snapend
 
 @snap[south]
-![](./assets/images/QGISDesk.png)
+![](./assets/images/QGISMapComp.png)
 @snapend
 
 @snap[south-east]
