@@ -63,7 +63,8 @@
   text-transform: uppercase !important;
 }
 
-.twitter-handle {
+.twitter-handle,
+.job-title {
   font-size: 12pt !important;
   color: #1c1c1c !important;
   font-weight: bolder !important;
