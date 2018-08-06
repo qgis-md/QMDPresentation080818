@@ -4,8 +4,8 @@
 <div class="card">
   <img src="./assets/images/BadWolf.png" alt="Avatar" style="width:100%">
   <div class="container">
-    @css[name](John Doe)<br> 
-    @fa[twitter twitter--blue][@spickettjr]@css[twitter-handle]((https://twitter.com/spickettjr))
+    @css[name](Shawn Pickett)<br> 
+    @fa[twitter twitter--blue]@css[twitter-handle]@spickettjr
   </div>
 </div>
 @snapend
