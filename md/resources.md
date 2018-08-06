@@ -58,7 +58,7 @@
 
 @snap[east]
 @ul[no-bullet](false)
-- [@qgis](https://twitter.com/qgis)
+- @css[twitter-handle-lg]([@qgis](https://twitter.com/qgis))
 - [@shermange](https://twitter.com/shermange)
 - [@underdarkGIS](https://twitter.com/underdarkGIS)
 - [@PetersonGIS](https://twitter.com/PetersonGIS)
