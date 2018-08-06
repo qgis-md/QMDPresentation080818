@@ -58,7 +58,6 @@
 
 @snap[east]
 @ul[no-bullet](false)
-@css[twitter-handle-lg](
 - [@qgis](https://twitter.com/qgis)
 - [@shermange](https://twitter.com/shermange)
 - [@underdarkGIS](https://twitter.com/underdarkGIS)
@@ -68,7 +67,6 @@
 - [@northroadgeo](https://twitter.com/northroadgeo)
 - [@qgis_us](https://twitter.com/qgis_us)
 - [@qgismd](https://twitter.com/qgismd)
-)
 @ulend
 @snapend
 
