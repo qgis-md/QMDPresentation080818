@@ -11,20 +11,22 @@
 +++
 
 @title[Blogs]
-![Anita Graser](https://anitagraser.com/) - QGIS Desktop
-![Kurt Menke](https://www.birdseyeviewgis.com/blog/) - QGIS Desktop
-![Gretchen Peterson](http://www.gretchenpeterson.com/blog/) - cartography
-![Gary Sherman](http://spatialgalaxy.net/) - creator of QGIS
-![Nathan Woodrow](https://nathanw.net/) - PyQGIS
-![Planet QGIS](https://plugins.qgis.org/planet/) - Clearinghouse of QGIS Blogs
+
 @snap[west]
 @ul
-- Blogs
-- Books
-- Twitter
-- Slack
+- [Anita Graser](https://anitagraser.com/)
+- [Kurt Menke](https://www.birdseyeviewgis.com/blog/)
+- [Gretchen Peterson](http://www.gretchenpeterson.com/blog/)
+- [Gary Sherman](http://spatialgalaxy.net/)
+- [Nathan Woodrow](https://nathanw.net/)
+- [Planet QGIS](https://plugins.qgis.org/planet/)
 @ulend
 @snapend
+
+@snap[east]
+<h3>Recommended Blogs</h3>
+@snapend
+
 +++
 
 @title[Books]
@@ -33,41 +35,55 @@
 <h3>Recommended Books</h3>
 @snapend
 
-@snap[north-west]
+@snap[north-east]
 ![](./assets/images/LearningQGIS.jpg)
-@snapend
-
-@snap[south-west]
 ![](./assets/images/MasteringQGIS.jpg)
 @snapend
 
-@snap[north]
+@snap[east]
 ![QGISMapDesign](./assets/images/QGISMapDesign.jpg)
-@snapend
-
-@snap[midpoint]
-<h3>Recommended Books</h3>
-@snapend
-
-@snap[south]
 ![BecomingQGISPowerUser](./assets/images/BecomingQGISPowerUser.jpg)
 @snapend
 
-@snap[north-east]
-![PyQGIS](./assets/images/PyQGISProgGuideV3.jpg)
-@snapend
-
 @snap[south-east]
+![PyQGIS](./assets/images/PyQGISProgGuideV3.jpg)
 ![QGISPythonProgCookbook](./assets/images/QGISPythonProgCookbook.jpg)
 @snapend
 
-+++
-
++++?image=https://media.giphy.com/media/10zI52A8mrfwNG/giphy.gif&position=left&size=55% 100%&opacity=40
 @title[Twitter]
+@snap[north-east]
+<h3>Folks to Follow on Twitter</h3>
+@snapend
+
+@snap[east]
+@ul[no-bullet](false)
+- [@qgis](https://twitter.com/qgis)
+- [@shermange](https://twitter.com/shermange)
+- [@underdarkGIS](https://twitter.com/underdarkGIS)
+- [@PetersonGIS](https://twitter.com/PetersonGIS)
+- [@geomenke](https://twitter.com/geomenke)
+- [@naturalgis](https://twitter.com/naturalgis)
+- [@northroadgeo](https://twitter.com/northroadgeo)
+- [@qgis_us](https://twitter.com/qgis_us)
+- [@qgismd](https://twitter.com/qgismd)
+@ulend
+@snapend
 
 +++
 
 @title[Slack]
-![The Spatial Community](https://thespatialcommunity.org/) - #qgis channel - also have many other channels
 
+@snap[west]
+![Slack](./assets/images/slacklogo.png)
+@snapend
+
+@snap[east]
+@css[title-block]([The Spatial Community](https://thespatialcommunity.org/))<br>
+@ul[spatial-community](false)
+- @css[details](@fa[slack text--red] qgis)
+- @css[details](@fa[slack text--red] grass)
+- @css[details](@fa[slack text--red] osgeo)
+@ulend
+@snapend
 
