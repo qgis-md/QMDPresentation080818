@@ -6,7 +6,7 @@
 
 @snap[west]
 <div class="card">
-  <img src="./assets/images/BadWolf.png" alt="Avatar" style="width:100%">
+  ![Avatar](./assets/images/BadWolf.png)
   <div class="container">
     @css[name](Shawn Pickett)<br> 
     @fa[twitter twitter--blue] @css[twitter-handle](@spickettjr)
