@@ -6,7 +6,7 @@
 
 @snap[west]
 <div class="card">
-  ![Avatar](./assets/images/BadWolf.png)
+  ![](./assets/images/LearningQGIS.jpg)
   <div class="container">
     @css[name](Shawn Pickett)<br> 
     @fa[twitter twitter--blue] @css[twitter-handle](@spickettjr)
