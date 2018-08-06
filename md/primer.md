@@ -2,12 +2,10 @@
 
 @snap[north-west]
 <h2>What is QGIS?</h2>
-<ul>
-  <li>Free and Open Source GIS Software</li>
-  </br>
-  <li>Includes Desktop, Server, Field Application (QField)</li>
-<!-- Placeholder for pictures -->
-</ul>
+@ul
+- Free and Open Source GIS Software
+- Includes Desktop, Server, Field Application (QField)
+@ulend
 
 @snapend
 
