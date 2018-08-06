@@ -64,6 +64,11 @@
   text-transform: uppercase !important;
 }
 
+.email {
+  font-size: 16pt !important;
+  color: #1c1c1c !important;
+  font-weight: 600 !important;
+}
 .twitter-handle,
 .job-title {
   font-size: 16pt !important;
