@@ -4,7 +4,10 @@
 <h2>What is QGIS?</h2>
 @ul
 - Free and Open Source GIS Software
-- Includes Desktop, Server, Field Application (QField)
+- Includes:
+  - Desktop
+  - Server
+  - Field Application (QField)
 @ulend
 
 @snapend
