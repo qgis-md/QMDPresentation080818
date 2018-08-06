@@ -1,7 +1,7 @@
 @title[Get In Touch]
 
 @snap[east]
-<h3>Get In Touch</h3>
+<h2>Get In Touch</h2>
 @snapend
 
 @snap[west]
