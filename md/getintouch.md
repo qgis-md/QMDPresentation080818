@@ -16,10 +16,10 @@
 
 @snap[south-west]
 <div class="card">
-  <img src="./assets/images/LearningQGIS.jpg" alt="Avatar" style="width:100%">
+  ![](./assets/images/LearningQGIS.jpg)
   <div class="container">
-    <h6><b>John Doe</b></h6> 
-    <p>Architect & Engineer</p> 
+    @css[name](Anne Canoune)<br>
+    @fa[twitter twitter--blue]@css[twitter-handle](@AnnieGitUrGun)
   </div>
 </div>
 @snapend
