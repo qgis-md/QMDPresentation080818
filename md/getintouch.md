@@ -5,7 +5,7 @@
   <img src="./assets/images/BadWolf.png" alt="Avatar" style="width:100%">
   <div class="container">
     @css[name](John Doe)<br> 
-    @fa[twitter twitter--blue]@css[twitter-handle]([@spickettjr](https://twitter.com/spickettjr))
+    @fa[twitter twitter--blue][@spickettjr]@css[twitter-handle]((https://twitter.com/spickettjr))
   </div>
 </div>
 @snapend

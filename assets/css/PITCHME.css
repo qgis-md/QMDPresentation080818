@@ -58,12 +58,14 @@
 }
 
 .name {
-  font-size: 14pt;
-  font-weight: bold;
-  text-transform: uppercase;
+  font-size: 14pt!important;
+  font-weight: bolder !important;
+  text-transform: uppercase !important;
 }
 
 .twitter-handle {
-  font-size: 12pt;
-  color: #1c1c1c;
+  font-size: 12pt !important;
+  color: #1c1c1c !important;
+  font-weight: bolder !important;
+  vertical-align: middle !important;
 }
