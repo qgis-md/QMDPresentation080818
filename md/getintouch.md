@@ -9,7 +9,7 @@
   ![](./assets/images/LearningQGIS.jpg)
   <div class="container">
     @css[name](Shawn Pickett)<br>
-    @css[job-title](Analyst, Century Engineering, Inc.)<br>  
+    @css[job-title](Analyst, Century Engineering, Inc.) 
     @fa[twitter twitter--blue]@css[twitter-handle](@spickettjr)
   </div>
 </div>
