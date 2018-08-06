@@ -11,6 +11,17 @@
 
 @snapend
 
+@snap[south-west]
+![](./assets/images/QGISDesk.png)
+@snapend
+
+@snap[south]
+![](./assets/images/QGISDesk.png)
+@snapend
+
+@snap[south-east]
+![](./assets/images/QGISDesk.png)
+@snapend
 +++
 
 @title[Feature Frenzy - Formats]
