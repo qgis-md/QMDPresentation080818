@@ -9,7 +9,6 @@
   ![](./assets/images/LearningQGIS.jpg)
   <div class="container">
     @css[name](Shawn Pickett)<br>
-    @css[job-title](Analyst, Century Engineering, Inc.) 
     @fa[twitter twitter--blue]@css[twitter-handle](@spickettjr)
   </div>
 </div>
@@ -17,7 +16,7 @@
 
 @snap[south-west]
 <div class="card">
-  <img src="./assets/images/BadWolf.png" alt="Avatar" style="width:100%">
+  <img src="./assets/images/LearningQGIS.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h6><b>John Doe</b></h6> 
     <p>Architect & Engineer</p> 
