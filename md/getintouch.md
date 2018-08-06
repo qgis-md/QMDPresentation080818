@@ -5,6 +5,10 @@
 @snapend
 
 @snap[west]
+@css[name](QGISMD)<br>
+@fa[twitter twitter--blue]@css[twitter-handle](@qgismd)
+<br> 
+<br>
 @css[name](Shawn Pickett)<br>
 @fa[twitter twitter--blue]@css[twitter-handle](@spickettjr)
 <br> 
