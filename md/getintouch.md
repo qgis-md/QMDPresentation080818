@@ -9,7 +9,7 @@
   ![](./assets/images/LearningQGIS.jpg)
   <div class="container">
     @css[name](Shawn Pickett)<br> 
-    @fa[twitter twitter--blue] @css[twitter-handle](@spickettjr)
+    @fa[twitter twitter--blue]@css[twitter-handle](@spickettjr)
   </div>
 </div>
 @snapend
