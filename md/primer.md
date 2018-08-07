@@ -5,13 +5,13 @@
 @snapend
 
 @snap[north-east]
-@ul
+@ul[no-bullet]
 - Free and Open Source<br>GIS Software
 - Runs on:
-  - @css[no-bullet](@fa[apple])
-  - @css[no-bullet](@fa[linux])
-  - @css[no-bullet](@fa[windows]) 
-  - @css[no-bullet](@fa[android])
+  - @fa[apple] 
+  - @fa[linux] 
+  - @fa[windows] 
+  - @fa[android]
 @ulend
 @snapend
 
