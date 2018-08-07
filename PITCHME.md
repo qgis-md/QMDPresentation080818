@@ -1,5 +1,4 @@
-@title[Title]
-?image=./assets/images/UncleSam2.png&position=center&size=contain&opacity=40
+---?image=./assets/images/UncleSam2.png&position=center&size=contain&opacity=40
 
 @snap[east]
 <h2>QGIS Maryland User Group</h2>
