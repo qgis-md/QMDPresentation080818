@@ -1,8 +1,5 @@
 @title[Title]
-
-@snap[west]
-![](./assets/images/UncleSam2.png)
-@snapend
+?image=./assets/images/UncleSam2.png&size=cover&opacity=40
 
 @snap[east]
 <h2>QGIS Maryland User Group</h2>
