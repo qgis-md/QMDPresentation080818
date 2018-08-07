@@ -1,5 +1,9 @@
 @title[Title]
 
+@snap[west]
+![](./assets/UncleSam2.png)
+@snapend
+
 @snap[east]
 <h2>QGIS Maryland User Group</h2>
 <h3><span class="text--red">A Call to Action</span></h3>
