@@ -46,9 +46,7 @@
 +++
 @title[QGIS Desktop - Map Composer Again]
 
-@snap[midpoint]
 ![](./assets/images/MapComposer2.png)
-@snapend
 
 @snap[south-east]
 @size[0.2em](Photo from Kurt Menke's Blog)
