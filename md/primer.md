@@ -34,13 +34,10 @@
 
 +++
 @title[QGIS Desktop - Map Composer]
-@snap[west]
+@snap[midpoint]
 ![](./assets/images/MapComposer1.png)
 @snapend
 
-@snap[east]
-![](./assets/images/MapComposer1.png)
-@snapend
 +++
 @snap[south-west]
 ![](./assets/images/QGISDesk.png)
