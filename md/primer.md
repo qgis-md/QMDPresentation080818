@@ -18,7 +18,7 @@
 ![](./assets/images/QGIS3red.jpg)
 
 @snap[south-east]
-@size[0.2em](Photo from @size[0.2em]([Kurt Menke's](https://www.birdseyeviewgis.com/blog/)) Blog)
+@size[0.2em](Photo from Kurt Menke's Blog)
 @snapend
 +++
 
