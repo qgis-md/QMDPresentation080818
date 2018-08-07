@@ -64,3 +64,10 @@
   font-weight: bolder !important;
   vertical-align: middle !important;
 }
+
+.footnote-link > .reveal a {
+  font-size: 10pt !important;
+  color: #1da1f2 !important;
+  font-weight: bolder !important;
+  vertical-align: middle !important;
+}
