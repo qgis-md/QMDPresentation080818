@@ -12,6 +12,21 @@
 
 @snapend
 
++++
+@title[QGIS Desktop]
+
+@snap[midpoint]
+![](./assets/images/QGIS3red.jpg)
+@snapend
+
+@snap[south]
+@size[0.5em](Photo from Kurt Menke's Blog)
+@snapend
++++
+
++++
+
++++
 @snap[south-west]
 ![](./assets/images/QGISDesk.png)
 @snapend
