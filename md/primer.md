@@ -9,13 +9,14 @@
 - Free and Open Source<br>GIS Software
 - Runs on:
 @ulend
+@snapend
 
 @snap[south fragment]
-@fa[apple fa-3x] @fa[linux]
+@fa[apple fa-3x] @fa[linux fa-3x]
 @snapend
 
 @snap[south-east fragment]
-@fa[windows] @fa[android]
+@fa[windows fa-3x] @fa[android fa-3x]
 @snapend
 
 +++
