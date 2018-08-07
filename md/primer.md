@@ -8,7 +8,10 @@
 @ul
 - Free and Open Source<br>GIS Software
 - Runs on:
-  - @fa[fa-apple] @fa[fa-linux] @fa[fa-windows] @fa[fa-android]
+  - @fa[apple] 
+  - @fa[linux] 
+  - @fa[windows] 
+  - @fa[android]
 @ulend
 @snapend
 
