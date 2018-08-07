@@ -4,12 +4,18 @@
 <h2>What is QGIS?</h2>
 @snapend
 
-@snap[north-east]
+@snap[east]
 @ul
 - Free and Open Source<br>GIS Software
 - Runs on:
-@fa[apple] @fa[linux] @fa[windows] @fa[android]
 @ulend
+
+@snap[south fragment]
+@fa[apple fa-3x] @fa[linux]
+@snapend
+
+@snap[south-east fragment]
+@fa[windows] @fa[android]
 @snapend
 
 +++
