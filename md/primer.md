@@ -5,10 +5,10 @@
 @snapend
 
 @snap[east]
-@ul
-- Free and Open Source<br>GIS Software
-- Runs on:
-@ulend
+
+@css[fragment](Free and Open Source<br>GIS Software)<br>
+@css[fragment](Runs on:)
+
 @snapend
 
 @snap[south-east fragment]
