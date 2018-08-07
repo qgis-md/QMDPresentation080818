@@ -17,7 +17,7 @@
 @title[Desktop]
 
 @snap[midpoint]
-<h2>Desktop</h2>
+<h2>QGIS Desktop</h2>
 @snapend
 
 +++
@@ -61,19 +61,22 @@
 @snapend
 
 +++
-@snap[south-west]
-![](./assets/images/QGISDesk.png)
+@title[Server]
+
+@snap[midpoint]
+<h2>QGIS Server</h2>
 @snapend
 
-@snap[south]
-![](./assets/images/QGISMapComp.png)
-@snapend
++++
+@title[QGIS Mapserver]
+
+![](./assets/images/MapComposer2.png)
 
 @snap[south-east]
-![](./assets/images/QGISDesk.png)
+@size[0.2em](Photo from Kurt Menke's Blog)
 @snapend
-+++
 
++++
 @title[Feature Frenzy - Formats]
 
 @snap[north-west]
