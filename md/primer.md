@@ -15,12 +15,10 @@
 +++
 @title[QGIS Desktop]
 
-@snap[north]
 ![](./assets/images/QGIS3red.jpg)
-@snapend
 
-@snap[south]
-@size[0.2em](Photo from [Kurt Menke's](https://www.birdseyeviewgis.com/blog/) Blog)
+@snap[south-east]
+@size[0.2em](Photo from @size[0.2em]([Kurt Menke's](https://www.birdseyeviewgis.com/blog/)) Blog)
 @snapend
 +++
 
