@@ -24,7 +24,9 @@
 +++
 @title[QGIS Desktop - Unified Data Source]
 
+@snap[north]
 ![](./assets/images/DataSourceManager.gif)
+@snapend
 
 @snap[south-east]
 @size[0.2em](Photo from Kurt Menke's Blog)
