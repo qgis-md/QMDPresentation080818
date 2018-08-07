@@ -6,8 +6,8 @@
 
 @snap[east]
 @ul
-- Free and Open Source GIS Software<br>
-- Includes:
+- Free and Open Source<br>GIS Software
+- Runs on @fa[fa-apple] @fa[fa-linux] @fa[fa-unix] @fa[fa-windows] @fa[fa-android]
 @ulend
 @snapend
 
