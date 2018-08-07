@@ -17,7 +17,7 @@
 <br> 
 <br>
 @css[name](Anne Canoune)<br>
-@fa[envelope-o text--red]&nbsp;&nbsp;@css[email](acanoune@centuryeng.com)<br>
+@fa[envelope-o text--red]&nbsp;&nbsp;@css[email](A.Canoune@gmail.com)<br>
 @fa[twitter-square twitter--blue]&nbsp;&nbsp;@css[twitter-handle](@AnnieGitUrGun)
 
 @snapend
