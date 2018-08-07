@@ -70,7 +70,7 @@
 +++
 @title[QGIS Mapserver]
 
-![](./assets/images/QGISMapserver.png)
+![](./assets/images/QGISMapserver.jpg)
 
 @snap[south-east]
 @size[0.2em](Photo from Kurt Menke's Blog)
