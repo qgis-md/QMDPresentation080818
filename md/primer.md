@@ -24,7 +24,7 @@
 +++
 @title[QGIS Desktop - Unified Data Source]
 
-@snap[north]
+@snap[midpoint]
 ![](./assets/images/DataSourceManager.gif)
 @snapend
 
@@ -33,7 +33,14 @@
 @snapend
 
 +++
+@title[QGIS Desktop - Map Composer]
+@snap[west]
+![](./assets/images/MapComposer1.png)
+@snapend
 
+@snap[east]
+![](./assets/images/MapComposer1.png)
+@snapend
 +++
 @snap[south-west]
 ![](./assets/images/QGISDesk.png)
