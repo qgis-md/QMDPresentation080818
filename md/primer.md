@@ -11,12 +11,8 @@
 @ulend
 @snapend
 
-@snap[south]
-@css[fragment](@fa[apple fa-3x]) @fa[linux fa-3x][fragment]]
-@snapend
-
 @snap[south-east fragment]
-@fa[windows fa-3x] @fa[android fa-3x]
+@css[fragment](@fa[apple fa-3x]) @css[fragment](@fa[linux fa-3x]) @css[fragment](@fa[windows fa-3x]) @css[fragment](@fa[android fa-3x]) 
 @snapend
 
 +++
