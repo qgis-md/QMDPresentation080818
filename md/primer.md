@@ -12,7 +12,7 @@
 @snapend
 
 @snap[south]
-@fa[apple fa-3x][fragment] @fa[linux fa-3x][fragment]]
+@css[fragment](@fa[apple fa-3x]) @fa[linux fa-3x][fragment]]
 @snapend
 
 @snap[south-east fragment]
