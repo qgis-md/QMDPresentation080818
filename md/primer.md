@@ -13,6 +13,14 @@
 @snapend
 
 +++
+
+@title[Desktop]
+
+@snap[midpoint]
+<h2>Desktop</h2>
+@snapend
+
++++
 @title[QGIS Desktop]
 
 ![](./assets/images/QGIS3red.jpg)
