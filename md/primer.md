@@ -1,16 +1,17 @@
 @title[QGIS Primer]
 
-@snap[north-west]
+@snap[west]
 <h2>What is QGIS?</h2>
+@snapend
+
+@snap[east]
 @ul
 - Free and Open Source GIS Software<br>
 - Includes:
 @ulend
-
 @snapend
 
 +++
-
 @title[Desktop]
 
 @snap[midpoint]
