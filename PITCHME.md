@@ -1,7 +1,7 @@
 @title[Title]
 
 @snap[west]
-![](./assets/UncleSam2.png)
+![](./assets/images/UncleSam2.png)
 @snapend
 
 @snap[east]
