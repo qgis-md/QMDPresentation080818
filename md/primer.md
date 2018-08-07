@@ -20,7 +20,7 @@
 @snapend
 
 @snap[south]
-@size[0.5em](Photo from Kurt Menke's Blog)
+@size[0.5em](Photo from ![Kurt Menke's](https://www.birdseyeviewgis.com/blog/) Blog)
 @snapend
 +++
 
