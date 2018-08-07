@@ -20,7 +20,15 @@
 @snap[south-east]
 @size[0.2em](Photo from Kurt Menke's Blog)
 @snapend
+
 +++
+@title[QGIS Desktop - Unified Data Source]
+
+![](./assets/images/DataSourceManager.gif)
+
+@snap[south-east]
+@size[0.2em](Photo from Kurt Menke's Blog)
+@snapend
 
 +++
 
