@@ -34,8 +34,24 @@
 
 +++
 @title[QGIS Desktop - Map Composer]
+
 @snap[midpoint]
 ![](./assets/images/MapComposer1.png)
+@snapend
+
+@snap[south-east]
+@size[0.2em](Photo from Kurt Menke's Blog)
+@snapend
+
++++
+@title[QGIS Desktop - Map Composer Again]
+
+@snap[midpoint]
+![](./assets/images/MapComposer2.png)
+@snapend
+
+@snap[south-east]
+@size[0.2em](Photo from Kurt Menke's Blog)
 @snapend
 
 +++
