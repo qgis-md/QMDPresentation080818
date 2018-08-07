@@ -1,7 +1,7 @@
-@title[Proposed User Group]
+@title[What is this User Group thing?]
 
 @snap[north-west]
-<h2>What is this User Group thing?</h2>
+<h2>Format</h2>
 <ul>
   <li>Monthly Webinars</li>
   </br>
@@ -14,10 +14,10 @@
 
 +++
 
-@title[Content]
+@title[Structure]
 
 @snap[north-west]
-<h3>User Group - Content</h3>
+<h2>Content</h2>
 <ul>
   <li>10 - 15 minute explainers on the basics</li>
   </br>
@@ -32,10 +32,10 @@
 
 +++
 
-@title[User Group - Communication]
+@title[Communication]
 
 @snap[north-west]
-<h3>User Group - Communication</h3>
+<h2>Communication</h2>
 <ul>
   <li>Twitter</li>
   </br>

@@ -1,18 +1,85 @@
 @title[QGIS Primer]
 
-@snap[north-west]
+@snap[west]
 <h2>What is QGIS?</h2>
-<ul>
-  <li>Free and Open Source GIS Software</li>
-  </br>
-  <li>Includes Desktop, Server, Field Application (QField)</li>
-<!-- Placeholder for pictures -->
-</ul>
+@snapend
 
+@snap[east]
+@ul
+- Free and Open Source<br>GIS Software
+<br>
+- Runs on:
+@ulend
+@snapend
+
+@snap[south-east]
+@css[fragment](@fa[apple fa-3x]) @css[fragment](@fa[linux fa-3x]) @css[fragment](@fa[windows fa-3x]) @css[fragment](@fa[android fa-3x]) 
 @snapend
 
 +++
+@title[Desktop]
 
+@snap[midpoint]
+<h2>QGIS Desktop</h2>
+@snapend
+
++++
+@title[QGIS Desktop]
+
+![](./assets/images/QGIS3red.jpg)
+
+@snap[south-east]
+@size[0.2em](Photo from Kurt Menke's Blog)
+@snapend
+
++++
+@title[QGIS Desktop - Unified Data Source]
+
+@snap[midpoint]
+![](./assets/images/DataSourceManager.gif)
+@snapend
+
+@snap[south-east]
+@size[0.2em](Photo from Kurt Menke's Blog)
+@snapend
+
++++
+@title[QGIS Desktop - Map Composer]
+
+@snap[midpoint]
+![](./assets/images/MapComposer1.png)
+@snapend
+
+@snap[south-east]
+@size[0.2em](Photo from Kurt Menke's Blog)
+@snapend
+
++++
+@title[QGIS Desktop - Map Composer Again]
+
+![](./assets/images/MapComposer2.png)
+
+@snap[south-east]
+@size[0.2em](Photo from Kurt Menke's Blog)
+@snapend
+
++++
+@title[Server]
+
+@snap[midpoint]
+<h2>QGIS Server</h2>
+@snapend
+
++++
+@title[QGIS Mapserver]
+
+![](./assets/images/QGISMapserver.jpg)
+
+@snap[south-east]
+@size[0.2em](Photo from OSGeo Live)
+@snapend
+
++++
 @title[Feature Frenzy - Formats]
 
 @snap[north-west]
