@@ -97,7 +97,7 @@
 @snap[north-west]
 <h3>Feature Frenzy - Visualization</h3>
 <ul>
-  <li>Symbology - Single, Categorized, Graduated, Rules-based, Point Clustering, Point Displacemet, Heat Map, 2.5D (Polygons)</li>
+  <li>Symbology - Single, Categorized, Graduated, Rules-based, Point Clustering, Point Displacement, Heat Map, 2.5D (Polygons)</li>
   </br>
   <li>Labels - With Expression or Rules-based</li>
   </br>
