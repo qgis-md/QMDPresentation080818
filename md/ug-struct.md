@@ -50,6 +50,24 @@
 
 +++
 
+@title[Admin]
+
+@snap[north-west]
+<h2>Administration</h2>
+<ul>
+  <li>Regional Coordinators</li>
+  </br>
+  <li>Content Contributors</li>
+  </br>
+  <li>Social Media / Email</li>
+  </br>
+  <li>Venues for In-Person Meetups</li>
+</ul>
+
+@snapend
+
++++
+
 @title[Call to Arms]
 
 @snap[center]
