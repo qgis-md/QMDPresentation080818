@@ -4,6 +4,8 @@
 <h2>QGIS Maryland User Group</h2>
 <h3><span class="text--red">A Call to Action</span></h3>
 @snapend
+<h3>We will start at 12:15 to let everyone get their lunch!</h3>
+
 @snap[south-east]
 <h5>Shawn Pickett & Anne Canoune, Century Engineering, Inc.</h5>
 @snapend
