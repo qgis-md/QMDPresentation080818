@@ -21,6 +21,8 @@
 
 @snap[midpoint]
 <h2>QGIS Desktop</h2>
+<br>
+<h2>QGIS Server</h2>
 @snapend
 
 +++
@@ -55,40 +57,15 @@
 @snapend
 
 +++
-@title[QGIS Desktop - Map Composer Again]
-
-![](./assets/images/MapComposer2.png)
-
-@snap[south-east]
-@size[0.2em](Photo from Kurt Menke's Blog)
-@snapend
-
-+++
-@title[Server]
-
-@snap[midpoint]
-<h2>QGIS Server</h2>
-@snapend
-
-+++
-@title[QGIS Mapserver]
-
-![](./assets/images/QGISMapserver.jpg)
-
-@snap[south-east]
-@size[0.2em](Photo from OSGeo Live)
-@snapend
-
-+++
 @title[Feature Frenzy - Formats]
 
 @snap[north-west]
 <h3>Feature Frenzy - Data Formats</h3>
 <ul>
   <li>Enterprise databases - PostGres, MS SQL, Oracle, and DB2</li>
-  </br>
-  <li>Files - SHP, FGDB, GeoPackage, SpatiaLite, CSV, Raster (Multiple formats)</li>
-  </br>
+  <li>Vector - AutoCad DXF, FGDB, GeoPackage, KML, SHP, SpatiaLite, and many more!</li>
+  <li>Raster - Erdas Imagine Files, GeoTIFF, Geospatial PDF, JPEG, MBTiles, and many more!</li>
+  <li>Text - CSV, GeoJSON, XLS, XLSX, and many more!</li>
   <li>Web - WMS / WCS / WFS, XYZ Tiles, ArcGIS Map and Feature Services</li>
 </ul>
 
