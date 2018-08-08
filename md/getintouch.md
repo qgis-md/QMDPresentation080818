@@ -12,7 +12,7 @@
 <br> 
 <br>
 @css[name](Shawn Pickett)<br>
-@fa[envelope-o text--red]&nbsp;&nbsp;@css[email](spickett@centuryeng.com)<br>
+@fa[envelope-o text--red]&nbsp;&nbsp;@css[email](spickettjr@gmail.com)<br>
 @fa[twitter-square twitter--blue]&nbsp;&nbsp;@css[twitter-handle](@spickettjr)
 <br> 
 <br>
