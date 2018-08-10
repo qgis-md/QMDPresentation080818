@@ -1,5 +1,3 @@
-<h3>We will start at 12:15 to let everyone get their lunch!</h3>
----
 ---?image=./assets/images/UncleSam2.png&position=left&size=contain&opacity=20
 
 @snap[east]
