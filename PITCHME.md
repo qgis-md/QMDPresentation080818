@@ -1,8 +1,8 @@
----?image=./assets/images/UncleSam2.png&position=left&size=contain&opacity=20
+---?image=assets/images/UncleSam2.png&position=left&size=contain&opacity=20
 
 @snap[east]
 <h2>QGIS Maryland User Group</h2>
-<h3><span class="text--red">A Call to Action</span></h3>
+<h3>@css[text--red](A Call to Action)</h3>
 @snapend
 @snap[south-east]
 <h5>Shawn Pickett & Anne Canoune, Century Engineering, Inc.</h5>

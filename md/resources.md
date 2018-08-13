@@ -1,7 +1,7 @@
 @title[Resources]
 
 @snap[west]
-<h3>Looking for some<br><span class="text--red"good</span> resources?</h3>
+<h3>Looking for some<br>@css[text--red](good) resources?</h3>
 @snapend
 
 @snap[east]
@@ -36,18 +36,18 @@
 @snapend
 
 @snap[north-east]
-![](./assets/images/LearningQGIS.jpg)
-![](./assets/images/MasteringQGIS.jpg)
+![](assets/images/LearningQGIS.jpg)
+![](assets/images/MasteringQGIS.jpg)
 @snapend
 
 @snap[east]
-![QGISMapDesign](./assets/images/QGISMapDesign.jpg)
-![BecomingQGISPowerUser](./assets/images/BecomingQGISPowerUser.jpg)
+![QGISMapDesign](assets/images/QGISMapDesign.jpg)
+![BecomingQGISPowerUser](assets/images/BecomingQGISPowerUser.jpg)
 @snapend
 
 @snap[south-east]
-![PyQGIS](./assets/images/PyQGISProgGuideV3.jpg)
-![QGISPythonProgCookbook](./assets/images/QGISPythonProgCookbook.jpg)
+![PyQGIS](assets/images/PyQGISProgGuideV3.jpg)
+![QGISPythonProgCookbook](assets/images/QGISPythonProgCookbook.jpg)
 @snapend
 
 +++?image=https://media.giphy.com/media/10zI52A8mrfwNG/giphy.gif&position=left&size=55% 100%&opacity=40
@@ -75,7 +75,7 @@
 @title[Slack]
 
 @snap[west]
-![Slack](./assets/images/slacklogo.png)
+![Slack](assets/images/slacklogo.png)
 @snapend
 
 @snap[east]
