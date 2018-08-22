@@ -5,15 +5,14 @@
 @snapend
 
 @snap[east]
-@ul
+@ul[spaced-items]
 - Free and Open Source<br>GIS Software
-<br>
 - Runs on:
 @ulend
 @snapend
 
 @snap[south-east]
-@css[fragment](@fa[apple fa-3x]) @css[fragment](@fa[linux fa-3x]) @css[fragment](@fa[windows fa-3x]) @css[fragment](@fa[android fa-3x]) 
+@fa[apple fa-3x fragment] @fa[linux fa-3x fragment] @fa[windows fa-3x fragment] @fa[android fa-3x fragment] 
 @snapend
 
 +++
@@ -28,7 +27,7 @@
 +++
 @title[QGIS Desktop]
 
-![](./assets/images/QGIS3red.jpg)
+![](assets/images/QGIS3red.jpg)
 
 @snap[south-east]
 @size[0.2em](Photo from Kurt Menke's Blog)
@@ -38,7 +37,7 @@
 @title[QGIS Desktop - Unified Data Source]
 
 @snap[midpoint]
-![](./assets/images/DataSourceManager.gif)
+![](assets/images/DataSourceManager.gif)
 @snapend
 
 @snap[south-east]
@@ -49,7 +48,7 @@
 @title[QGIS Desktop - Map Composer]
 
 @snap[midpoint]
-![](./assets/images/MapComposer1.png)
+![](assets/images/MapComposer1.png)
 @snapend
 
 @snap[south-east]
@@ -61,14 +60,13 @@
 
 @snap[north-west]
 <h3>Feature Frenzy - Data Formats</h3>
-<ul>
-  <li>Enterprise databases - PostGres, MS SQL, Oracle, and DB2</li>
-  <li>Vector - AutoCad DXF, FGDB, GeoPackage, KML, SHP, SpatiaLite, and many more!</li>
-  <li>Raster - Erdas Imagine Files, GeoTIFF, Geospatial PDF, JPEG, MBTiles, and many more!</li>
-  <li>Text - CSV, GeoJSON, XLS, XLSX, and many more!</li>
-  <li>Web - WMS / WCS / WFS, XYZ Tiles, ArcGIS Map and Feature Services</li>
-</ul>
-
+@ul[](false)
+- Enterprise databases - PostGres, MS SQL, Oracle, and DB2
+- Vector - AutoCad DXF, FGDB, GeoPackage, KML, SHP, SpatiaLite, and many more!
+- Raster - Erdas Imagine Files, GeoTIFF, Geospatial PDF, JPEG, MBTiles, and many more!
+- Text - CSV, GeoJSON, XLS, XLSX, and many more!
+- Web - WMS / WCS / WFS, XYZ Tiles, ArcGIS Map and Feature Services
+@ulend
 @snapend
 
 +++
@@ -78,16 +76,12 @@
 @snap[north-west]
 <h3>Feature Frenzy - Editing</h3>
 
-<ul>
-  <li>Vector Editing tools / Run SQL on your layers</li>
-  </br>
-  <li>Edit data from multiple sources at the same time</li>
-  </br>
-  <li>Attribute Table Conditional Formating</li>
-  </br>
-  <li>Customize Attribute Forms</li>
-</ul>
-
+@ul[spaced-items](false)
+- Vector Editing tools / Run SQL on your layers
+- Edit data from multiple sources at the same time
+- Attribute Table Conditional Formating
+- Customize Attribute Forms
+@ulend
 @snapend
 
 +++
@@ -96,14 +90,10 @@
 
 @snap[north-west]
 <h3>Feature Frenzy - Visualization</h3>
-<ul>
-  <li>Symbology - Single, Categorized, Graduated, Rules-based, Point Clustering, Point Displacement, Heat Map, 2.5D (Polygons)</li>
-  </br>
-  <li>Labels - With Expression or Rules-based</li>
-  </br>
-  <li>Native 3D</li>
-  </br>
-  <li>Print Composer / Atlas / Reports</li>
-</ul>
-
+@ul[spaced-items](false)
+- Symbology - Single, Categorized, Graduated, Rules-based, Point Clustering, Point Displacement, Heat Map, 2.5D (Polygons)
+- Labels - With Expression or Rules-based
+- Native 3D
+- Print Composer / Atlas / Reports
+@ulend
 @snapend

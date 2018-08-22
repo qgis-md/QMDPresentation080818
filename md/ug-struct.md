@@ -2,14 +2,11 @@
 
 @snap[north-west]
 <h2>Format</h2>
-<ul>
-  <li>Monthly Webinars</li>
-  </br>
-  <li>Quarterly / Bi-Annual Meetups</li>
-  </br>
-  <li>Ad Hoc Regional Meetups</li>
-</ul>
-
+@ul[spaced-items](false)
+- Monthly Webinars
+- Quarterly / Bi-Annual Meetups
+- Ad Hoc Regional Meetups
+@ulend
 @snapend
 
 +++
@@ -18,16 +15,12 @@
 
 @snap[north-west]
 <h2>Content</h2>
-<ul>
-  <li>10 - 15 minute explainers on the basics</li>
-  </br>
-  <li>10 - 15 minute presentation on advanced topic / use case / project</li>
-  </br>
-  <li>News and Resource Sharing</li>
-  </br>
-  <li>Open Discussion</li>
-</ul>
-
+@ul[spaced-items](false)
+- 10 - 15 minute explainers on the basics
+- 10 - 15 minute presentation on advanced topic / use case / project
+- News and Resource Sharing
+- Open Discussion
+@ulend
 @snapend
 
 +++
@@ -36,16 +29,12 @@
 
 @snap[north-west]
 <h2>Communication</h2>
-<ul>
-  <li>Twitter</li>
-  </br>
-  <li>Gmail</li>
-  </br>
-  <li>Instagram</li>
-  </br>
-  <li>GitHub Repo - Content and Resources</li>
-</ul>
-
+@ul[spaced-items](false)
+- Twitter
+- Gmail
+- Instagram
+- GitHub Repo - Content and Resources
+@ulend
 @snapend
 
 +++
@@ -54,16 +43,12 @@
 
 @snap[north-west]
 <h2>Administration</h2>
-<ul>
-  <li>Regional Coordinators</li>
-  </br>
-  <li>Content Contributors</li>
-  </br>
-  <li>Social Media / Email</li>
-  </br>
-  <li>Venues for In-Person Meetups</li>
-</ul>
-
+@ul[spaced-items](false)
+- Regional Coordinators
+- Content Contributors
+- Social Media / Email
+- Venues for In-Person Meetups
+@ulend
 @snapend
 
 +++
